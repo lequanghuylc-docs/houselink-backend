@@ -1,7 +1,7 @@
 # HouseLink Notifications Docs
 
 # List Server API
-
+_Note_: Communicate between microservices, dont call on client side.
 - [ ] activate account
 - [ ] lost password
 - [x] new prject
