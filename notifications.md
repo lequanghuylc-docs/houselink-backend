@@ -6,8 +6,8 @@ _Note_: Communicate between microservices, dont call on client side.
 - [ ] lost password
 - [x] new prject
 - [x] update project
-- [x] new bidding: tạo hạng mục đấu thầu
-- [x] update bidding: cập nhật hạng mục đấu thầu
+- [x] new biddingCategory: tạo hạng mục đấu thầu
+- [x] update biddingCategory: cập nhật hạng mục đấu thầu
 - [x] send quotation: gửi chào thầu
 - [x] update quotation: cập nhật chào thầu
 - [x] authorize contracting: giao thầu
